@@ -7,9 +7,11 @@
         "id": "9b3ada84dcc07958",
         "type": "leaf",
         "state": {
-          "type": "pdf",
+          "type": "markdown",
           "state": {
-            "file": "PDFs/Kealiinohomoku (1969) an anthropologist looks at ballet as a form of ethnic dance.pdf"
+            "file": "Landing.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -67,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PDFs/Kealiinohomoku (1969) an anthropologist looks at ballet as a form of ethnic dance.pdf",
+                "file": "Landing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PDFs/Kealiinohomoku (1969) an anthropologist looks at ballet as a form of ethnic dance.pdf",
+                "file": "Landing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -99,15 +101,15 @@
   },
   "active": "9b3ada84dcc07958",
   "lastOpenFiles": [
+    "Landing.md",
+    "obsidian.md",
+    "Rough Timeline.md",
+    "O'Callaghan 2007.md",
     "PDFs/Kealiinohomoku (1969) an anthropologist looks at ballet as a form of ethnic dance.pdf",
     "PDFs/_Extract.md",
     "PDFs/Schneider (2011) Performing Remains.pdf",
     "PDFs/Banes (1987) Terspichore in Sneakers.pdf",
     "Hilder 2017.md",
-    "Eidsheim 2015.md",
-    "Dodd 2007.md",
-    "Elder 2004.md",
-    "O'Callaghan 2007.md",
-    "Templates/Annotations.md"
+    "Eidsheim 2015.md"
   ]
 }
