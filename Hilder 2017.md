@@ -2,7 +2,7 @@
 annotation-target: PDFs/Hilder (2017) Music Indigeneity Digital Media.pdf
 ---
 Notes on [[Hilder (2017) Music Indigeneity Digital Media.pdf]].
-[View annotator](hypothesis/viewer/web/viewer.html?file=%2FPDFs%2FHilder (2017) Music Indigeneity Digital Media.pdf)
+[View annotator](https://movement-ontology.brandazzle.net/docs/hypothesis/viewer/web/viewer.html?file=%2FPDFs%2FHilder (2017) Music Indigeneity Digital Media.pdf)
 
 
 >%%
