@@ -1,3 +1,5 @@
+This is a list of all the articles and documents currently hosted here. I have read all of them, and annotated most—I'm still working on transferring the annotations from the books, but we'll get there. Annotations may be attributed to "work" or "underarch"—those are both me.
+
 [[Cardoso (2019) Sound-Politics in Sao Paulo - 2 Of_Ears_and_Norms.pdf]]
 
 [[Eidsheim (2015) - Sensing Sound.pdf]]
@@ -36,4 +38,4 @@
 
 [[Thomasson (2007) review.pdf]]
 
-[[Wolf Gennaro (2015) Dance in Musical Theater.pdf]]
+[[Wolf Gennaro (2015) Dance in Musical Theater.pdf]] 
