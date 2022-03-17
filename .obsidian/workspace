@@ -7,12 +7,8 @@
         "id": "9b3ada84dcc07958",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "docs/Landing.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Landing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +81,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Landing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
