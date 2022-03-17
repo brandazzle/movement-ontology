@@ -1,0 +1,113 @@
+{
+  "main": {
+    "id": "99b4223072af5bb0",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b3ada84dcc07958",
+        "type": "leaf",
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "PDFs/Kealiinohomoku (1969) an anthropologist looks at ballet as a form of ethnic dance.pdf"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d7f3152542b52cff",
+    "type": "split",
+    "children": [
+      {
+        "id": "00dfdac0b094e474",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47a74f0533b60b9f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7d0691ae43890d4b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "48bab18c714931cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "28e86149793f72a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd169a99a36961bc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PDFs/Kealiinohomoku (1969) an anthropologist looks at ballet as a form of ethnic dance.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "05ea0d72a3bbd622",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "PDFs/Kealiinohomoku (1969) an anthropologist looks at ballet as a form of ethnic dance.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "9b3ada84dcc07958",
+  "lastOpenFiles": [
+    "PDFs/Kealiinohomoku (1969) an anthropologist looks at ballet as a form of ethnic dance.pdf",
+    "PDFs/_Extract.md",
+    "PDFs/Schneider (2011) Performing Remains.pdf",
+    "PDFs/Banes (1987) Terspichore in Sneakers.pdf",
+    "Hilder 2017.md",
+    "Eidsheim 2015.md",
+    "Dodd 2007.md",
+    "Elder 2004.md",
+    "O'Callaghan 2007.md",
+    "Templates/Annotations.md"
+  ]
+}
