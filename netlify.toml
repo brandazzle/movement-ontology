@@ -17,7 +17,7 @@ REPO_URL = "https://github.com/brandazzle/movement-ontology"
 # Site title in navbar
 SITE_TITLE = "Movement Ontology"
 # Site URL
-SITE_URL = "optimistic-swanson-d98b69.netlify.app"
+SITE_URL = "movement-ontology.brandazzle.net"
 # Site Timezone
 TIMEZONE = "US/Los_Angeles"
 ZOLA_VERSION = "0.15.2"
