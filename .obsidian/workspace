@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Introduction.md",
+            "file": "Hilder 2017.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction.md",
+                "file": "Hilder 2017.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introduction.md",
+                "file": "Hilder 2017.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -101,15 +101,15 @@
   },
   "active": "9b3ada84dcc07958",
   "lastOpenFiles": [
+    "Hilder 2017.md",
     "Introduction.md",
+    "All used pages.md",
+    "Eidsheim 2015.md",
     "docs/Landing.md",
     "PDFs/Sound Studies/Cardoso (2019) Sound-Politics in Sao Paulo - 2 Of_Ears_and_Norms.pdf",
-    "All used pages.md",
     "obsidian.md",
     "Rough Timeline.md",
     "O'Callaghan 2007.md",
-    "PDFs/Kealiinohomoku (1969) an anthropologist looks at ballet as a form of ethnic dance.pdf",
-    "PDFs/_Extract.md",
-    "PDFs/Schneider (2011) Performing Remains.pdf"
+    "PDFs/Kealiinohomoku (1969) an anthropologist looks at ballet as a form of ethnic dance.pdf"
   ]
 }
