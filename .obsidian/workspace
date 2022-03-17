@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Hilder 2017.md",
+            "file": "Introduction.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hilder 2017.md",
+                "file": "Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hilder 2017.md",
+                "file": "Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -101,9 +101,9 @@
   },
   "active": "9b3ada84dcc07958",
   "lastOpenFiles": [
+    "Introduction.md",
     "Hilder 2017.md",
     "README.md",
-    "Introduction.md",
     "All used pages.md",
     "Eidsheim 2015.md",
     "docs/Landing.md",
