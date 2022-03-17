@@ -17,7 +17,7 @@ REPO_URL = "https://github.com/brandazzle/movement-ontology"
 # Site title in navbar
 SITE_TITLE = "Movement Ontology"
 # Site URL
-SITE_URL = ""
+SITE_URL = "/"
 # Site Timezone
 TIMEZONE = "US/Los_Angeles"
 ZOLA_VERSION = "0.15.2"
