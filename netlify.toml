@@ -6,7 +6,7 @@ publish = "public"
 # Text in landing page button
 LANDING_BUTTON = "Explore"
 # Site description on landing page
-LANDING_DESCRIPTION = "I have nothing but intelligence."
+LANDING_DESCRIPTION = "Welcome to my movement ontology mind-space."
 # The Markdown page linked to landing page button (e.g. put home for ./home.md)
 LANDING_PAGE = "README"
 # Site title on landing page
