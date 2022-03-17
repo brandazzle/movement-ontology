@@ -8,4 +8,7 @@
 
 **Realistically,** this is a completely absurd dumping bin for a whole lot of thoughts, created in the hopes that it would help me think them better.
 
-Let's start with a [[Rough Timeline]].
+Start with the [[Rough Timeline]] to get a sense of linear progression. 
+Start with the [[List of PDFs]] to get a bird's-eye view.
+Start with [[Eidsheim 2015]] to work non-linearly through the texts.
+Start with [[Scattered Notes]] to delve directly into my mind-space.

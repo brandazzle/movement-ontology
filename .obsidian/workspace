@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Rough Timeline.md",
+            "file": "Introduction.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rough Timeline.md",
+                "file": "Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rough Timeline.md",
+                "file": "Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -101,11 +101,11 @@
   },
   "active": "9b3ada84dcc07958",
   "lastOpenFiles": [
+    "Introduction.md",
+    "List of PDFs.md",
     "Rough Timeline.md",
     "README.md",
-    "List of PDFs.md",
     "PDFs/Sound Studies/Cardoso (2019) Sound-Politics in Sao Paulo - 2 Of_Ears_and_Norms.pdf",
-    "Introduction.md",
     "PDFs/Sound Studies/Eidsheim (2019) Race of Sound introduction.pdf",
     "Hilder 2017.md",
     "Eidsheim 2015.md",
