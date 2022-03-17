@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Introduction.md",
+            "file": "List of PDFs.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction.md",
+                "file": "List of PDFs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introduction.md",
+                "file": "List of PDFs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -101,15 +101,15 @@
   },
   "active": "9b3ada84dcc07958",
   "lastOpenFiles": [
+    "List of PDFs.md",
+    "PDFs/Sound Studies/Cardoso (2019) Sound-Politics in Sao Paulo - 2 Of_Ears_and_Norms.pdf",
     "Introduction.md",
+    "PDFs/Sound Studies/Eidsheim (2019) Race of Sound introduction.pdf",
     "Hilder 2017.md",
     "README.md",
-    "All used pages.md",
     "Eidsheim 2015.md",
     "docs/Landing.md",
-    "PDFs/Sound Studies/Cardoso (2019) Sound-Politics in Sao Paulo - 2 Of_Ears_and_Norms.pdf",
     "obsidian.md",
-    "Rough Timeline.md",
-    "O'Callaghan 2007.md"
+    "Rough Timeline.md"
   ]
 }
