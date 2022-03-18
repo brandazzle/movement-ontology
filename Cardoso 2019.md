@@ -1,4 +1,4 @@
-These are my annotations on [[Cardoso (2019) Sound-Politics in Sao Paulo - 2 Of_Ears_and_Norms.pdf]]. 
+Annotations on [[Cardoso (2019) Sound-Politics in Sao Paulo - 2 Of_Ears_and_Norms.pdf]]. 
 Cardoso's book
 The core argument of this 
 
