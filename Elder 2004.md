@@ -5,6 +5,7 @@ annotation-target: PDFs/Elder (2004) Real Natures.pdf
 Notes on [[Elder (2004) Real Natures.pdf]].
 This was the first book I read that connects to the original sound-ontological line of research, discovered at the end of a quick chain of philosophical research on what an "artifact" was, which began after encountering the term in Sound Studies.
 
+Use not for individuation, but for larger discussions works 
 
 ##### Test of flanking uniformities
 >%%
