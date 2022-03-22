@@ -2,7 +2,7 @@
 The following are various scraps of notes found among my places (including the notes app and the margins of class notes) where I write down ideas as I have them. Dates are as exact as I can figure.
 
 ### 7 September 2021
-the awareness of my own "hungry listening" is something that right now I don't feel like will ever slip completely back into being unnoticed/unmarked/default—at least I will do my very best to continue that awareness
+the awareness of my own "hungry listening" is something that right now I don't feel like will ever slip completely back into being unnoticed/unmarked/default—at least I will do my best to continue that awareness
 
 ### 23 Nov 2021
 Sound is created by the processing of the thick vibrational phenomenon through a sound ontology

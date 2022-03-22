@@ -10,6 +10,5 @@
 
 ### How do I use it?
 Start with the [[Rough Timeline]] to get a sense of linear progression.  
-Start with the [[List of Documents]] to get a bird's-eye view.  
-Start with [[Eidsheim 2015]] to work non-linearly through the texts.  
+Start with [[Eidsheim 2015]] to work non-linearly through the texts (or choose any document from "Document Notes" in the left sidebar).
 Start with the [[Proposals]] to work backwards.  
