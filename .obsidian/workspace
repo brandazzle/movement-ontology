@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1dbc051918d38d12",
+        "id": "324626533d474235",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Proposals.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Proposals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +81,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Proposals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -99,7 +93,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1dbc051918d38d12",
+  "active": "324626533d474235",
   "lastOpenFiles": [
     "Proposals.md",
     "PDFs/Hilder (2017) Music Indigeneity Digital Media.pdf",
