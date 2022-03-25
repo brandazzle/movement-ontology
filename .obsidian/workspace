@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bibliography.md",
+            "file": "Proposals.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bibliography.md",
+                "file": "Proposals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bibliography.md",
+                "file": "Proposals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -101,6 +101,7 @@
   },
   "active": "c9feaa1b62da3b0e",
   "lastOpenFiles": [
+    "Proposals.md",
     "Bibliography.md",
     "Z Document Notes/Wolf Gennaro 2015.md",
     "Z Document Notes/Sterne 2006.md",
@@ -109,7 +110,6 @@
     "Z Document Notes/Robinson 2020.md",
     "Z Document Notes/Preston 2018.md",
     "Z Document Notes/O'Callaghan 2007.md",
-    "Z Document Notes/Novak 2013.md",
-    "PDFs/Sound Studies/Novak (2013) Japanoise - 5 Feedback Subjectivity and Performance.pdf"
+    "Z Document Notes/Novak 2013.md"
   ]
 }
