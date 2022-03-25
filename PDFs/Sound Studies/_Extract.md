@@ -1,6 +1,5 @@
 Extracting PDF Comments from Sound Studies
 PDF Page 2 on Sterne (2006) MP3.PDF has 3 Annots.
-PDF Page 1 on Cardoso (2019) Sound-Politics in Sao Paulo - 2 Of_Ears_and_Norms.pdf has 1 Annots.
 PDF Page 3 on Sterne (2006) MP3.PDF has 4 Annots.
 PDF Page 4 on Sterne (2006) MP3.PDF has 3 Annots.
 PDF Page 5 on Sterne (2006) MP3.PDF has 3 Annots.
@@ -8,80 +7,81 @@ PDF Page 6 on Sterne (2006) MP3.PDF has 6 Annots.
 PDF Page 7 on Sterne (2006) MP3.PDF has 2 Annots.
 PDF Page 8 on Sterne (2006) MP3.PDF has 4 Annots.
 PDF Page 10 on Sterne (2006) MP3.PDF has 5 Annots.
-PDF Page 11 on Sterne (2006) MP3.PDF has 2 Annots.
 PDF Page 3 on Preston (2018) Artifact (SEP).pdf has 2 Annots.
+PDF Page 11 on Sterne (2006) MP3.PDF has 2 Annots.
 PDF Page 12 on Sterne (2006) MP3.PDF has 5 Annots.
-PDF Page 5 on Preston (2018) Artifact (SEP).pdf has 2 Annots.
-PDF Page 6 on Eidsheim (2019) Race of Sound introduction.pdf has 1 Annots.
 PDF Page 13 on Sterne (2006) MP3.PDF has 3 Annots.
-PDF Page 6 on Preston (2018) Artifact (SEP).pdf has 2 Annots.
+PDF Page 5 on Preston (2018) Artifact (SEP).pdf has 2 Annots.
 PDF Page 14 on Sterne (2006) MP3.PDF has 4 Annots.
+PDF Page 6 on Preston (2018) Artifact (SEP).pdf has 2 Annots.
 PDF Page 15 on Sterne (2006) MP3.PDF has 1 Annots.
 PDF Page 7 on Preston (2018) Artifact (SEP).pdf has 4 Annots.
-PDF Page 2 on Cardoso (2019) Sound-Politics in Sao Paulo - 2 Of_Ears_and_Norms.pdf has 2 Annots.
 PDF Page 8 on Preston (2018) Artifact (SEP).pdf has 5 Annots.
-PDF Page 3 on Cardoso (2019) Sound-Politics in Sao Paulo - 2 Of_Ears_and_Norms.pdf has 3 Annots.
 PDF Page 9 on Preston (2018) Artifact (SEP).pdf has 4 Annots.
-PDF Page 4 on Cardoso (2019) Sound-Politics in Sao Paulo - 2 Of_Ears_and_Norms.pdf has 2 Annots.
 PDF Page 10 on Preston (2018) Artifact (SEP).pdf has 5 Annots.
 PDF Page 11 on Preston (2018) Artifact (SEP).pdf has 4 Annots.
-PDF Page 14 on Eidsheim (2019) Race of Sound introduction.pdf has 5 Annots.
-PDF Page 5 on Cardoso (2019) Sound-Politics in Sao Paulo - 2 Of_Ears_and_Norms.pdf has 2 Annots.
 PDF Page 12 on Preston (2018) Artifact (SEP).pdf has 3 Annots.
-PDF Page 15 on Eidsheim (2019) Race of Sound introduction.pdf has 4 Annots.
-PDF Page 6 on Cardoso (2019) Sound-Politics in Sao Paulo - 2 Of_Ears_and_Norms.pdf has 2 Annots.
 PDF Page 13 on Preston (2018) Artifact (SEP).pdf has 4 Annots.
-PDF Page 16 on Eidsheim (2019) Race of Sound introduction.pdf has 4 Annots.
-PDF Page 7 on Cardoso (2019) Sound-Politics in Sao Paulo - 2 Of_Ears_and_Norms.pdf has 2 Annots.
 PDF Page 14 on Preston (2018) Artifact (SEP).pdf has 3 Annots.
-PDF Page 17 on Eidsheim (2019) Race of Sound introduction.pdf has 5 Annots.
 PDF Page 15 on Preston (2018) Artifact (SEP).pdf has 3 Annots.
-PDF Page 8 on Cardoso (2019) Sound-Politics in Sao Paulo - 2 Of_Ears_and_Norms.pdf has 2 Annots.
-PDF Page 18 on Eidsheim (2019) Race of Sound introduction.pdf has 5 Annots.
 PDF Page 16 on Preston (2018) Artifact (SEP).pdf has 4 Annots.
-PDF Page 9 on Cardoso (2019) Sound-Politics in Sao Paulo - 2 Of_Ears_and_Norms.pdf has 4 Annots.
 PDF Page 17 on Preston (2018) Artifact (SEP).pdf has 1 Annots.
-PDF Page 19 on Eidsheim (2019) Race of Sound introduction.pdf has 8 Annots.
-PDF Page 10 on Cardoso (2019) Sound-Politics in Sao Paulo - 2 Of_Ears_and_Norms.pdf has 3 Annots.
 PDF Page 18 on Preston (2018) Artifact (SEP).pdf has 2 Annots.
-PDF Page 20 on Eidsheim (2019) Race of Sound introduction.pdf has 3 Annots.
-PDF Page 11 on Cardoso (2019) Sound-Politics in Sao Paulo - 2 Of_Ears_and_Norms.pdf has 1 Annots.
 PDF Page 19 on Preston (2018) Artifact (SEP).pdf has 2 Annots.
-PDF Page 12 on Cardoso (2019) Sound-Politics in Sao Paulo - 2 Of_Ears_and_Norms.pdf has 3 Annots.
-PDF Page 21 on Eidsheim (2019) Race of Sound introduction.pdf has 3 Annots.
 PDF Page 20 on Preston (2018) Artifact (SEP).pdf has 2 Annots.
+PDF Page 1 on Cardoso (2019) Sound-Politics in Sao Paulo - 2 Of_Ears_and_Norms.pdf has 1 Annots.
+PDF Page 6 on Eidsheim (2019) Race of Sound introduction.pdf has 1 Annots.
+PDF Page 2 on Cardoso (2019) Sound-Politics in Sao Paulo - 2 Of_Ears_and_Norms.pdf has 2 Annots.
+PDF Page 3 on Cardoso (2019) Sound-Politics in Sao Paulo - 2 Of_Ears_and_Norms.pdf has 3 Annots.
+PDF Page 14 on Eidsheim (2019) Race of Sound introduction.pdf has 5 Annots.
+PDF Page 15 on Eidsheim (2019) Race of Sound introduction.pdf has 4 Annots.
+PDF Page 4 on Cardoso (2019) Sound-Politics in Sao Paulo - 2 Of_Ears_and_Norms.pdf has 2 Annots.
+PDF Page 16 on Eidsheim (2019) Race of Sound introduction.pdf has 4 Annots.
+PDF Page 5 on Cardoso (2019) Sound-Politics in Sao Paulo - 2 Of_Ears_and_Norms.pdf has 2 Annots.
+PDF Page 17 on Eidsheim (2019) Race of Sound introduction.pdf has 5 Annots.
+PDF Page 18 on Eidsheim (2019) Race of Sound introduction.pdf has 5 Annots.
+PDF Page 6 on Cardoso (2019) Sound-Politics in Sao Paulo - 2 Of_Ears_and_Norms.pdf has 2 Annots.
+PDF Page 19 on Eidsheim (2019) Race of Sound introduction.pdf has 8 Annots.
+PDF Page 7 on Cardoso (2019) Sound-Politics in Sao Paulo - 2 Of_Ears_and_Norms.pdf has 2 Annots.
+PDF Page 20 on Eidsheim (2019) Race of Sound introduction.pdf has 3 Annots.
+PDF Page 8 on Cardoso (2019) Sound-Politics in Sao Paulo - 2 Of_Ears_and_Norms.pdf has 2 Annots.
+PDF Page 21 on Eidsheim (2019) Race of Sound introduction.pdf has 3 Annots.
+PDF Page 9 on Cardoso (2019) Sound-Politics in Sao Paulo - 2 Of_Ears_and_Norms.pdf has 4 Annots.
+PDF Page 10 on Cardoso (2019) Sound-Politics in Sao Paulo - 2 Of_Ears_and_Norms.pdf has 3 Annots.
 PDF Page 22 on Eidsheim (2019) Race of Sound introduction.pdf has 6 Annots.
-PDF Page 14 on Cardoso (2019) Sound-Politics in Sao Paulo - 2 Of_Ears_and_Norms.pdf has 1 Annots.
+PDF Page 11 on Cardoso (2019) Sound-Politics in Sao Paulo - 2 Of_Ears_and_Norms.pdf has 1 Annots.
 PDF Page 23 on Eidsheim (2019) Race of Sound introduction.pdf has 5 Annots.
-PDF Page 15 on Cardoso (2019) Sound-Politics in Sao Paulo - 2 Of_Ears_and_Norms.pdf has 3 Annots.
+PDF Page 12 on Cardoso (2019) Sound-Politics in Sao Paulo - 2 Of_Ears_and_Norms.pdf has 3 Annots.
 PDF Page 24 on Eidsheim (2019) Race of Sound introduction.pdf has 2 Annots.
-PDF Page 16 on Cardoso (2019) Sound-Politics in Sao Paulo - 2 Of_Ears_and_Norms.pdf has 2 Annots.
-PDF Page 17 on Cardoso (2019) Sound-Politics in Sao Paulo - 2 Of_Ears_and_Norms.pdf has 1 Annots.
-PDF Page 18 on Cardoso (2019) Sound-Politics in Sao Paulo - 2 Of_Ears_and_Norms.pdf has 2 Annots.
+PDF Page 14 on Cardoso (2019) Sound-Politics in Sao Paulo - 2 Of_Ears_and_Norms.pdf has 1 Annots.
 PDF Page 25 on Eidsheim (2019) Race of Sound introduction.pdf has 2 Annots.
-PDF Page 19 on Cardoso (2019) Sound-Politics in Sao Paulo - 2 Of_Ears_and_Norms.pdf has 2 Annots.
-PDF Page 21 on Cardoso (2019) Sound-Politics in Sao Paulo - 2 Of_Ears_and_Norms.pdf has 1 Annots.
+PDF Page 15 on Cardoso (2019) Sound-Politics in Sao Paulo - 2 Of_Ears_and_Norms.pdf has 3 Annots.
+PDF Page 16 on Cardoso (2019) Sound-Politics in Sao Paulo - 2 Of_Ears_and_Norms.pdf has 2 Annots.
 PDF Page 26 on Eidsheim (2019) Race of Sound introduction.pdf has 4 Annots.
-PDF Page 22 on Cardoso (2019) Sound-Politics in Sao Paulo - 2 Of_Ears_and_Norms.pdf has 1 Annots.
+PDF Page 17 on Cardoso (2019) Sound-Politics in Sao Paulo - 2 Of_Ears_and_Norms.pdf has 1 Annots.
 PDF Page 27 on Eidsheim (2019) Race of Sound introduction.pdf has 4 Annots.
-PDF Page 23 on Cardoso (2019) Sound-Politics in Sao Paulo - 2 Of_Ears_and_Norms.pdf has 2 Annots.
+PDF Page 18 on Cardoso (2019) Sound-Politics in Sao Paulo - 2 Of_Ears_and_Norms.pdf has 2 Annots.
 PDF Page 28 on Eidsheim (2019) Race of Sound introduction.pdf has 3 Annots.
 PDF Page 29 on Eidsheim (2019) Race of Sound introduction.pdf has 4 Annots.
-PDF Page 25 on Cardoso (2019) Sound-Politics in Sao Paulo - 2 Of_Ears_and_Norms.pdf has 3 Annots.
+PDF Page 19 on Cardoso (2019) Sound-Politics in Sao Paulo - 2 Of_Ears_and_Norms.pdf has 2 Annots.
 PDF Page 30 on Eidsheim (2019) Race of Sound introduction.pdf has 6 Annots.
-PDF Page 26 on Cardoso (2019) Sound-Politics in Sao Paulo - 2 Of_Ears_and_Norms.pdf has 1 Annots.
+PDF Page 21 on Cardoso (2019) Sound-Politics in Sao Paulo - 2 Of_Ears_and_Norms.pdf has 1 Annots.
 PDF Page 31 on Eidsheim (2019) Race of Sound introduction.pdf has 4 Annots.
-PDF Page 27 on Cardoso (2019) Sound-Politics in Sao Paulo - 2 Of_Ears_and_Norms.pdf has 3 Annots.
+PDF Page 22 on Cardoso (2019) Sound-Politics in Sao Paulo - 2 Of_Ears_and_Norms.pdf has 1 Annots.
 PDF Page 32 on Eidsheim (2019) Race of Sound introduction.pdf has 1 Annots.
-PDF Page 28 on Cardoso (2019) Sound-Politics in Sao Paulo - 2 Of_Ears_and_Norms.pdf has 2 Annots.
+PDF Page 23 on Cardoso (2019) Sound-Politics in Sao Paulo - 2 Of_Ears_and_Norms.pdf has 2 Annots.
 PDF Page 33 on Eidsheim (2019) Race of Sound introduction.pdf has 6 Annots.
-PDF Page 29 on Cardoso (2019) Sound-Politics in Sao Paulo - 2 Of_Ears_and_Norms.pdf has 4 Annots.
 PDF Page 34 on Eidsheim (2019) Race of Sound introduction.pdf has 3 Annots.
-PDF Page 30 on Cardoso (2019) Sound-Politics in Sao Paulo - 2 Of_Ears_and_Norms.pdf has 1 Annots.
+PDF Page 25 on Cardoso (2019) Sound-Politics in Sao Paulo - 2 Of_Ears_and_Norms.pdf has 3 Annots.
 PDF Page 35 on Eidsheim (2019) Race of Sound introduction.pdf has 4 Annots.
+PDF Page 26 on Cardoso (2019) Sound-Politics in Sao Paulo - 2 Of_Ears_and_Norms.pdf has 1 Annots.
 PDF Page 36 on Eidsheim (2019) Race of Sound introduction.pdf has 4 Annots.
+PDF Page 27 on Cardoso (2019) Sound-Politics in Sao Paulo - 2 Of_Ears_and_Norms.pdf has 3 Annots.
 PDF Page 37 on Eidsheim (2019) Race of Sound introduction.pdf has 4 Annots.
+PDF Page 28 on Cardoso (2019) Sound-Politics in Sao Paulo - 2 Of_Ears_and_Norms.pdf has 2 Annots.
+PDF Page 29 on Cardoso (2019) Sound-Politics in Sao Paulo - 2 Of_Ears_and_Norms.pdf has 4 Annots.
 PDF Page 38 on Eidsheim (2019) Race of Sound introduction.pdf has 3 Annots.
+PDF Page 30 on Cardoso (2019) Sound-Politics in Sao Paulo - 2 Of_Ears_and_Norms.pdf has 1 Annots.
 PDF Page 39 on Eidsheim (2019) Race of Sound introduction.pdf has 5 Annots.
 PDF Page 40 on Eidsheim (2019) Race of Sound introduction.pdf has 3 Annots.
 PDF Page 41 on Eidsheim (2019) Race of Sound introduction.pdf has 5 Annots.
@@ -99,8 +99,47 @@ PDF Page 49 on Eidsheim (2019) Race of Sound introduction.pdf has 1 Annots.
 			    
 * *highlighted by underarch at page 1 on [[PDFs/Sound Studies/Cardoso (2019) Sound-Politics in Sao Paulo - 2 Of_Ears_and_Norms.pdf]]*
 
+> experts have generated an “average normal ear,” which I  call Ear 1.0. To a large extent, the configuration of sound-politics depends on the strength of the links between noise, Ear 1.0, and public health initiatives.
 
-litics in Sao Paulo - 2 Of_Ears_and_Norms.pdf]]*
+
+			    
+* *highlighted by underarch at page 2 on [[PDFs/Sound Studies/Cardoso (2019) Sound-Politics in Sao Paulo - 2 Of_Ears_and_Norms.pdf]]*
+
+> portable information. The sound pressure level meter (SLM), or Ear 2.0, is crucial here because it can convert Ear 1.0 into what Bruno Latour and Steve Woolgar call an “inscription device,” that is, an “item of apparatus or particular configuration of such items which can transform a material substance into a figure or diagram which is directly usable” (Latour and Woolgar 1986, 51). An inscription device
+
+
+			    
+* *highlighted by underarch at page 2 on [[PDFs/Sound Studies/Cardoso (2019) Sound-Politics in Sao Paulo - 2 Of_Ears_and_Norms.pdf]]*
+
+> mastering sound, “the many different places that made up the modern soundscape began to sound alike” (Thompson 2002, 3). This is the period of consolidation for
+
+
+			    
+* *highlighted by underarch at page 3 on [[PDFs/Sound Studies/Cardoso (2019) Sound-Politics in Sao Paulo - 2 Of_Ears_and_Norms.pdf]]*
+
+> groups. The first comes from medicine and includes mostly physiologists and otologists. The small size, internal specialization, fragility, and difficulty of access combine to make the human ear a remarkably difficult object to study. Békésy and
+
+connection to book on modern aurality
+			    
+* *highlighted by underarch at page 3 on [[PDFs/Sound Studies/Cardoso (2019) Sound-Politics in Sao Paulo - 2 Of_Ears_and_Norms.pdf]]*
+
+> (Békésy and Rosenblith 1948, 736). Hermann Helmholtz postulated that “individual nerve fibers acted as vibrating strings, each resonating at a different frequency” (Rossing 2007, 13).2
+
+
+			    
+* *highlighted by underarch at page 3 on [[PDFs/Sound Studies/Cardoso (2019) Sound-Politics in Sao Paulo - 2 Of_Ears_and_Norms.pdf]]*
+
+> acoustics (Thompson 2002). By instituting the field of acoustics, this group established yet another chain of reference connecting sound (now an object with specific properties) and hearing.
+
+
+			    
+* *highlighted by underarch at page 4 on [[PDFs/Sound Studies/Cardoso (2019) Sound-Politics in Sao Paulo - 2 Of_Ears_and_Norms.pdf]]*
+
+> groups, these explorers helped to turn sonic events into stable object-signals that could be transmitted, stored, reproduced, and amplified. As Sterne notes, this pro-
+
+object-signals—is this a revolution in storage of sound or vibration? does it matter?
+			    
+* *highlighted by underarch at page 4 on [[PDFs/Sound Studies/Cardoso (2019) Sound-Politics in Sao Paulo - 2 Of_Ears_and_Norms.pdf]]*
 
 > (1) the emergence of audile technique as a way of abstracting some reproduced sounds (such as voices or music) as worthy of attention or “interior,” and others (such as static or surface noise) as “exterior” and therefore to be treated as if they did not exist; (2) the organization of sound-reproduction
 

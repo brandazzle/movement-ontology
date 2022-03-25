@@ -7,9 +7,11 @@
         "id": "edfbebbe67e2a90f",
         "type": "leaf",
         "state": {
-          "type": "pdf",
+          "type": "markdown",
           "state": {
-            "file": "PDFs/Sound Studies/Sterne (2006) MP3.PDF"
+            "file": "PDFs/Sound Studies/_Extract.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -67,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PDFs/Sound Studies/Sterne (2006) MP3.PDF",
+                "file": "PDFs/Sound Studies/_Extract.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PDFs/Sound Studies/Sterne (2006) MP3.PDF",
+                "file": "PDFs/Sound Studies/_Extract.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -99,15 +101,15 @@
   },
   "active": "edfbebbe67e2a90f",
   "lastOpenFiles": [
+    "PDFs/Sound Studies/_Extract.md",
+    "PDFs/Sound Studies/Cardoso (2019) Sound-Politics in Sao Paulo - 2 Of_Ears_and_Norms.pdf",
+    "Z Document Notes/Cardoso 2019.md",
+    "Z Document Notes/Hilder 2017.md",
+    "Z Document Notes/Novak 2013.md",
     "PDFs/Sound Studies/Sterne (2006) MP3.PDF",
     "Z Document Notes/Sterne 2006.md",
-    "PDFs/Sound Studies/_Extract.md",
     "PDFs/_Extract.md",
-    "PDFs/Sound Studies/Cardoso (2019) Sound-Politics in Sao Paulo - 2 Of_Ears_and_Norms.pdf",
     "Z Document Notes/Dodd 2007.md",
-    "PDFs/Dodd (2007) Works of Music.pdf",
-    "Proposals.md",
-    "PDFs/Eidsheim (2015) - Sensing Sound.pdf",
-    "PDFs/Sound Studies/Eidsheim (2019) Race of Sound introduction.pdf"
+    "PDFs/Dodd (2007) Works of Music.pdf"
   ]
 }

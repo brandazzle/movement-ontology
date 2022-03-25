@@ -5,7 +5,7 @@ $/ = '';
 $s = <>;
 $string = NFD($s);
 
-$string =~ s/\$(\>[^\n\t\r]+)\n\n([^\n\t\r]*)\s+(\* \*[ \w\d]+?) on [^\n\t\r]+\n{1,2}/\1\n\n\2\n\3\*\n\n/g;
+$string =~ s/\$(\>[^\n\t\r]+)\n\n([^\n\t\r]*)\s+(\* \*[ \w\d]+?) on [^\n\t\r]+\n{0,2}/\1\n\n\2\n\3\*\n\n/g;
 
 $out = compose($string);
 print $string
