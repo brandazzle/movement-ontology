@@ -105,3 +105,12 @@ Which reading talked about Swan Lake???
 Pre-refutation: it is the *language and culture* and not anything external to it which is being analyzed; furthermore, we cannot say with certainty that Sámi possessed of all the resources that have made possible any Western body of world-knowledge would arrive at the exact same body of facts as we currently have
 
 That's what's wrong with Dawkinsian objectivism: the idea that there is an unenculturated, objective observing subject, something which is in fact blatantly impossible
+
+### 24 March 2022
+Re-reading [[Bruno 2007]]
+
+[[Dodd 2007|Dodd's]] assertion that music-theoretical properties can be part of a sonic identity and thus can be heard directly is definitely noit gonna work, but that points to a problem with sonicism—that hearing is enculturated. Can draw on [[Robinson 2020]] to make that point
+
+Can the claim that *hearing* is consistent but auditory *processing* is enculturated be defended? is it coherent? is it even legitimate (can be disproven)? because any attempt to tell what someone hears inevitably involves asking them
+where is hearing even located?
+do I need to bring Eidsheim to bear on this???

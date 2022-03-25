@@ -4,6 +4,7 @@
     "type": "split",
     "children": [
       {
+<<<<<<< HEAD
         "id": "324626533d474235",
         "type": "leaf",
         "state": {
@@ -13,6 +14,13 @@
             "mode": "source",
             "source": false
           }
+=======
+        "id": "4c13ade54f386578",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+>>>>>>> c18f32d00c83cc57377965480ce3ba59b9f9e692
         }
       }
     ],
@@ -69,7 +77,10 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Scattered Notes.md",
+=======
+>>>>>>> c18f32d00c83cc57377965480ce3ba59b9f9e692
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +97,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Scattered Notes.md",
+=======
+>>>>>>> c18f32d00c83cc57377965480ce3ba59b9f9e692
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -99,6 +113,7 @@
     "width": 300,
     "collapsed": true
   },
+<<<<<<< HEAD
   "active": "324626533d474235",
   "lastOpenFiles": [
     "Scattered Notes.md",
@@ -111,5 +126,19 @@
     "Introduction.md",
     "Z Document Notes/O'Callaghan 2007.md",
     "Z Document Notes/Preston 2018.md"
+=======
+  "active": "4c13ade54f386578",
+  "lastOpenFiles": [
+    "Z Document Notes/O'Callaghan 2007.md",
+    "Novak 2013.md",
+    "Z Document Notes/Eidsheim 2015.md",
+    "Scattered Notes.md",
+    "PDFs/Bruno (2007) review.pdf",
+    "PDFs/Morris (2010) review.pdf",
+    "PDFs/Gottschild (1997) Choreographing History.pdf",
+    "Introduction.md",
+    "List of Documents.md",
+    "O'Callaghan 2007.md"
+>>>>>>> c18f32d00c83cc57377965480ce3ba59b9f9e692
   ]
 }
