@@ -99,3 +99,9 @@ Is dance inherently semiotic? Is it semiotic in a way that e.g. music isn’t?
 Meaning as a tool which is used by art, it is an instrument with an art – perhaps the most key instrument of art –but it is not necessarily an aspect of a given work of art *in toto.* Asking "what does this work of art mean" is not nearly as useful a question as asking "how does this work of art use meaning?" 
 I think part of this is because the word "meaning" is kind of overloaded in normal parlance, or maybe it's my view that is overly simplified—what is my view?
 
+### 22 March 2022
+Which reading talked about Swan Lake???
+
+Pre-refutation: it is the *language and culture* and not anything external to it which is being analyzed; furthermore, we cannot say with certainty that Sámi possessed of all the resources that have made possible any Western body of world-knowledge would arrive at the exact same body of facts as we currently have
+
+That's what's wrong with Dawkinsian objectivism: the idea that there is an unenculturated, objective observing subject, something which is in fact blatantly impossible

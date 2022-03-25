@@ -7,8 +7,12 @@
         "id": "324626533d474235",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Scattered Notes.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Scattered Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,6 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Scattered Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -95,6 +101,8 @@
   },
   "active": "324626533d474235",
   "lastOpenFiles": [
+    "Scattered Notes.md",
+    "PDFs/Gottschild (1997) Choreographing History.pdf",
     "Proposals.md",
     "PDFs/Hilder (2017) Music Indigeneity Digital Media.pdf",
     "PDFs/Dodd (2007) Works of Music.pdf",
@@ -102,8 +110,6 @@
     "Hilder 2.md",
     "Introduction.md",
     "Z Document Notes/O'Callaghan 2007.md",
-    "Z Document Notes/Preston 2018.md",
-    "Z Document Notes/Cardoso 2019.md",
-    "PDFs/Sound Studies/Robinson (2020) Hungry Listening - chapter one.pdf"
+    "Z Document Notes/Preston 2018.md"
   ]
 }
