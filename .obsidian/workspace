@@ -4,11 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "cdf96900e180a0aa",
+        "id": "edfbebbe67e2a90f",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "pdf",
+          "state": {
+            "file": "PDFs/Sound Studies/Sterne (2006) MP3.PDF"
+          }
         }
       }
     ],
@@ -65,6 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PDFs/Sound Studies/Sterne (2006) MP3.PDF",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,6 +84,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "PDFs/Sound Studies/Sterne (2006) MP3.PDF",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -93,17 +97,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "cdf96900e180a0aa",
+  "active": "edfbebbe67e2a90f",
   "lastOpenFiles": [
-    "Scattered Notes.md",
-    "PDFs/Gottschild (1997) Choreographing History.pdf",
-    "Proposals.md",
-    "PDFs/Hilder (2017) Music Indigeneity Digital Media.pdf",
+    "PDFs/Sound Studies/Sterne (2006) MP3.PDF",
+    "Z Document Notes/Sterne 2006.md",
+    "PDFs/Sound Studies/_Extract.md",
+    "PDFs/_Extract.md",
+    "PDFs/Sound Studies/Cardoso (2019) Sound-Politics in Sao Paulo - 2 Of_Ears_and_Norms.pdf",
+    "Z Document Notes/Dodd 2007.md",
     "PDFs/Dodd (2007) Works of Music.pdf",
-    "Z Document Notes/Hilder 2017.md",
-    "Hilder 2.md",
-    "Introduction.md",
-    "Z Document Notes/O'Callaghan 2007.md",
-    "Z Document Notes/Preston 2018.md"
+    "Proposals.md",
+    "PDFs/Eidsheim (2015) - Sensing Sound.pdf",
+    "PDFs/Sound Studies/Eidsheim (2019) Race of Sound introduction.pdf"
   ]
 }
