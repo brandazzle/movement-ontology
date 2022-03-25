@@ -99,3 +99,11 @@ Is dance inherently semiotic? Is it semiotic in a way that e.g. music isn’t?
 Meaning as a tool which is used by art, it is an instrument with an art – perhaps the most key instrument of art –but it is not necessarily an aspect of a given work of art *in toto.* Asking "what does this work of art mean" is not nearly as useful a question as asking "how does this work of art use meaning?" 
 I think part of this is because the word "meaning" is kind of overloaded in normal parlance, or maybe it's my view that is overly simplified—what is my view?
 
+### 24 March 2022
+Re-reading [[Bruno 2007]]
+
+[[Dodd 2007|Dodd's]] assertion that music-theoretical properties can be part of a sonic identity and thus can be heard directly is definitely noit gonna work, but that points to a problem with sonicism—that hearing is enculturated. Can draw on [[Robinson 2020]] to make that point
+
+Can the claim that *hearing* is consistent but auditory *processing* is enculturated be defended? is it coherent? is it even legitimate (can be disproven)? because any attempt to tell what someone hears inevitably involves asking them
+where is hearing even located?
+do I need to bring Eidsheim to bear on this???

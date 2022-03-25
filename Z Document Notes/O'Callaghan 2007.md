@@ -152,13 +152,13 @@ These notes were all made while the original sonic proposal ("sounds exist in th
 
 >%%
 >```annotation-json
->{"created":"2022-03-16T22:44:46.308Z","text":"at this point (thinking with [[Eidsheim 2018]]) I'm starting to wonder what makes voice so special. is the voice different from the sound of the voice?","updated":"2022-03-16T22:44:46.308Z","document":{"title":"Unknown Title","link":[{"href":"urn:x-pdf:329dc8b4f04cbbbb8184980a860eb7e6"},{"href":"vault:/PDFs/OCallaghan (2007) Sounds.pdf"}],"documentFingerprint":"329dc8b4f04cbbbb8184980a860eb7e6"},"uri":"vault:/PDFs/OCallaghan (2007) Sounds.pdf"}
+>{"text":"at this point (thinking with [[Eidsheim 2019]]) I'm starting to wonder what makes voice so special. is the voice different from the sound of the voice?","created":"2022-03-16T22:44:46.308Z","updated":"2022-03-16T22:44:46.308Z","document":{"title":"Unknown Title","link":[{"href":"urn:x-pdf:329dc8b4f04cbbbb8184980a860eb7e6"},{"href":"vault:/PDFs/OCallaghan (2007) Sounds.pdf"}],"documentFingerprint":"329dc8b4f04cbbbb8184980a860eb7e6"},"uri":"vault:/PDFs/OCallaghan (2007) Sounds.pdf"}
 >```
 >%%
 >*%%PREFIX%%%%HIGHLIGHT%% ==== %%POSTFIX%%*
 >%%LINK%%[[#^uptb1mkt1z|show annotation]]
 >%%COMMENT%%
->at this point (thinking with [[Eidsheim 2018]]) I'm starting to wonder what makes voice so special. is the voice different from the sound of the voice?
+>at this point (thinking with [[Eidsheim 2019]]) I'm starting to wonder what makes voice so special. is the voice different from the sound of the voice?
 >%%TAGS%%
 >
 ^uptb1mkt1z

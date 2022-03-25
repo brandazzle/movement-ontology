@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9b3ada84dcc07958",
+        "id": "4c13ade54f386578",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Introduction.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +81,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -99,17 +93,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9b3ada84dcc07958",
+  "active": "4c13ade54f386578",
   "lastOpenFiles": [
+    "Z Document Notes/O'Callaghan 2007.md",
+    "Novak 2013.md",
+    "Z Document Notes/Eidsheim 2015.md",
+    "Scattered Notes.md",
+    "PDFs/Bruno (2007) review.pdf",
+    "PDFs/Morris (2010) review.pdf",
+    "PDFs/Gottschild (1997) Choreographing History.pdf",
     "Introduction.md",
     "List of Documents.md",
-    "O'Callaghan 2007.md",
-    "Pataphysics.md",
-    "Rough Timeline.md",
-    "Eidsheim 2019.md",
-    "Eidsheim 2015.md",
-    "Preston 2018.md",
-    "Sterne 2006.md",
-    "Cardoso 2019.md"
+    "O'Callaghan 2007.md"
   ]
 }

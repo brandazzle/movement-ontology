@@ -579,7 +579,7 @@ integration | independence
 >*%%PREFIX%%n being the core) in chapter 3.%%HIGHLIGHT%% ==In the dominant view, in which Í  sound  is  the  core,  perhaps  it  is  not  the  voice  or  logos  but  the  sound  that  is  the fetish object of the voice, inhibiting us from knowing the voice more closely and understanding more about its effects on singers and listeners.== %%POSTFIX%%39 Moreover, j  if we were not d*
 >%%LINK%%[[#^2getrtxn3s|show annotation]]
 >%%COMMENT%%
->[[Japanoise]]—materiality—anti-"music" practice part of deliberate breaking of figure of sound (?)—manifestation of chaotic materiality
+>[[Novak 2013]]—materiality—anti-"music" practice part of deliberate breaking of figure of sound (?)—manifestation of chaotic materiality
 >%%TAGS%%
 >
 ^2getrtxn3s
