@@ -1,0 +1,1 @@
+Notes on [[Novak (2013) Japanoise - 5 Feedback Subjectivity and Performance.pdf]].

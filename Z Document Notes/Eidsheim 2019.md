@@ -1,4 +1,4 @@
-Annotations on [[Eidsheim (2019) Race of Sound introduction.pdf]].
+Notes on [[Eidsheim (2019) Race of Sound introduction.pdf]].
 
 
 

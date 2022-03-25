@@ -1,4 +1,4 @@
-Annotations on [[Sterne (2006) MP3.PDF]].
+Notes on [[Sterne (2006) MP3.PDF]].
 
 
 

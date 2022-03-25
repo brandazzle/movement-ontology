@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "edfbebbe67e2a90f",
+        "id": "c9feaa1b62da3b0e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PDFs/Sound Studies/_Extract.md",
+            "file": "Bibliography.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PDFs/Sound Studies/_Extract.md",
+                "file": "Bibliography.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PDFs/Sound Studies/_Extract.md",
+                "file": "Bibliography.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -99,17 +99,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "edfbebbe67e2a90f",
+  "active": "c9feaa1b62da3b0e",
   "lastOpenFiles": [
-    "PDFs/Sound Studies/_Extract.md",
-    "PDFs/Sound Studies/Cardoso (2019) Sound-Politics in Sao Paulo - 2 Of_Ears_and_Norms.pdf",
-    "Z Document Notes/Cardoso 2019.md",
-    "Z Document Notes/Hilder 2017.md",
-    "Z Document Notes/Novak 2013.md",
-    "PDFs/Sound Studies/Sterne (2006) MP3.PDF",
+    "Bibliography.md",
+    "Z Document Notes/Wolf Gennaro 2015.md",
     "Z Document Notes/Sterne 2006.md",
-    "PDFs/_Extract.md",
-    "Z Document Notes/Dodd 2007.md",
-    "PDFs/Dodd (2007) Works of Music.pdf"
+    "Z Document Notes/Searcy 2018.md",
+    "Z Document Notes/Schneider 2011.md",
+    "Z Document Notes/Robinson 2020.md",
+    "Z Document Notes/Preston 2018.md",
+    "Z Document Notes/O'Callaghan 2007.md",
+    "Z Document Notes/Novak 2013.md",
+    "PDFs/Sound Studies/Novak (2013) Japanoise - 5 Feedback Subjectivity and Performance.pdf"
   ]
 }
