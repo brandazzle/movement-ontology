@@ -1,5 +1,6 @@
 Notes on [[Preston (2018) Artifact (SEP).pdf]].
 
+A detailed introductory investigation into artifacts in philosophy generally. Conceptual reference material.
 
 
 > ephemeral or abstract. Arguably, then, musical performances (Dipert 1993) and belief systems (Hilpinen 1995) are artifacts. Simon Evnine (2016) argues

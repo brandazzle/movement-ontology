@@ -1,0 +1,3 @@
+Notes on [[Gottschild (1997) Choreographing History.pdf]].
+
+Presents an effective critique of dance criticism which fails to recognize, let alone step outside of, its default assumptions and frameworks, and in the process lays out an outline for anthropological inquiry into performance and history that will likely be very informative for the end structure [[Proposals#Proposal 5|Proposal 5]] aims towards.

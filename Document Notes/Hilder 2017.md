@@ -5,7 +5,7 @@ Notes on [[Hilder (2017) Music Indigeneity Digital Media.pdf]].
 [View annotator](https://movement-ontology.brandazzle.net/docs/hypothesis/viewer/web/viewer.html?file=%2Fdocs%2FPDFs%2FHilder%20(2017)%20Music%20Indigeneity%20Digital%20Media.pdf) 
 
 ### Hilder – The Politics of Virtuality
-
+Discusses virtuality and recording in the context of the Sámi (indigenous northern Europeans) muisic practice of _joik_. An interesting and useful picture of a music practice besides Western art music.
 
 
 >%%

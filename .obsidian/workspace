@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Proposals.md",
+            "file": "Scattered Notes.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Proposals.md",
+                "file": "Scattered Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Proposals.md",
+                "file": "Scattered Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -101,15 +101,15 @@
   },
   "active": "c9feaa1b62da3b0e",
   "lastOpenFiles": [
-    "Proposals.md",
-    "Bibliography.md",
-    "Z Document Notes/Wolf Gennaro 2015.md",
-    "Z Document Notes/Sterne 2006.md",
-    "Z Document Notes/Searcy 2018.md",
-    "Z Document Notes/Schneider 2011.md",
-    "Z Document Notes/Robinson 2020.md",
-    "Z Document Notes/Preston 2018.md",
-    "Z Document Notes/O'Callaghan 2007.md",
-    "Z Document Notes/Novak 2013.md"
+    "Scattered Notes.md",
+    "Pataphysics.md",
+    "Document Notes/Kealiinohomoku 1969.md",
+    "Document Notes/Preston 2018.md",
+    "Document Notes/Searcy 2018.md",
+    "Document Notes/Schneider 2011.md",
+    "Document Notes/Elder 2004.md",
+    "Document Notes/Bruno 2007.md",
+    "Document Notes/Morris 2010.md",
+    "Document Notes/Eidsheim 2015.md"
   ]
 }

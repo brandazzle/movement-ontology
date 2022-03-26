@@ -1,6 +1,6 @@
 Notes on [[Eidsheim (2015) - Sensing Sound.pdf]].
 
-
+Dissects and deconstructs what Eidsheim terms the “figure of sound”—the set of cultural structures and preconceived listenings which reduce “thick vibrational events” to monodimensional, analytic, fixed-knowable objects in the ear of the listener. Still working on exactly what’s going on in it, but it’s very important.
 
 
 Oral trad. resonant? 
@@ -207,7 +207,7 @@ Creation as performance—Cage's 4'33" No. 2
 
 > sound and sound making. Because the instruments used in Noisy Clothes did not seem like instruments, we managed to shift the performers’ frame of refer­ ence from playing an instrument to simply playing around. The boisterous play,
 
-actualizing the principle of jeu
+actualizing the principle of *jeu*
 
 * *highlighted by underarch at page 49*
 
@@ -255,7 +255,7 @@ the idea that there is an individual "natural voice" unenculturated, unfixed by 
 
 > ment and action being the core) in chapter 3. In the dominant view, in which Í sound is the core, perhaps it is not the voice or logos but the sound that is the fetish object of the voice, inhibiting us from knowing the voice more closely 39  and understanding more about its effects on singers and listeners.Moreover, j if we were not deafened by sound, would music appear to us not as an ideal , and fetishized sound that he lps maintain the work concept, but as a compound manifestation of performers’ bodies?
 
-[[Japanoise]]—materiality—anti-"music" practice part of deliberate breaking of figure of sound (?)—manifestation of chaotic materiality
+[[Novak 2013|Japanoise]]—materiality—anti-"music" practice part of deliberate breaking of figure of sound (?)—manifestation of chaotic materiality
 
 * *highlighted by underarch at page 62*
 
@@ -267,7 +267,7 @@ Sounds are [[Pataphysics|Pataphysical entities]]—each sound is an exception, a
 
 > These categories are exemplified by Michel Chion’s “three listening modes”: “casual listening,” which gathers information about the sound’s source, from the owner of the voice on the telephone to the gravel underfoot; “semantic lis­ tening,” which uses “a code or a language to interpret a message,” from phoƒ  nemes to spoken words; and “reduced listening,” which concentrates on the 42  . sound itself, not as a “vehicle for something else.”While Chion considers
 
-All of these listenings are hungry, I think
+All of these listenings are [[Robinson 2020|hungry]], I think
 
 * *highlighted by underarch at page 66*
 

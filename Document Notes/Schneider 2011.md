@@ -1,5 +1,6 @@
 Notes on [[Schneider (2011) Performing Remains.pdf]].
 
+Argues for gesture repeated and reenacted through time as a record and evidence of its own repeating existence, and bodies as sites for located spatiotemporal memory. Needs further, detailed unpacking for its possibilities in philosophy, but is very promising as a keystone for branching out an analysis of gesture and memory.
 
 
 

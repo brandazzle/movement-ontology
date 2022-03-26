@@ -3,6 +3,9 @@ annotation-target: PDFs/OCallaghan (2007) Sounds.pdf
 ---
 
 Notes on [[OCallaghan (2007) Sounds.pdf]].
+
+This work puts forth the idea that sounds are events where a vibrating body interacts with a medium. This is in contrast to conceptions which state that sounds are qualities or groups of waves, and justifies our perception that sounds are located at their sources as not just an illusion.
+
 These notes were all made while the original sonic proposal ("sounds exist in the interactions between vibrational fields and sonic ontologies") was still under focus, and as such, will make reference to it fairly frequently.
 
 

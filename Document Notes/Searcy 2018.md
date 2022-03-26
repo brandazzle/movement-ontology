@@ -1,5 +1,6 @@
 Notes on [[Searcy (2018) Bringing Dance to the Center in Hamilton.pdf]].
 
+Discusses the detailed movement vocabulary developed by the choreography of _Hamilton_. Will be useful for discussions of semiotics in dance.
 
 
 

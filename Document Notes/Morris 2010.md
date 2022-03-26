@@ -1,0 +1,3 @@
+Notes on [[Morris (2010) review.pdf]].
+
+One of the first reviews of [[Dodd 2007|Works of Music]] I read. Rejects Dodd's conclusions on the basis that while the underlying method and assumptions do follow properly to those conclusions, the unacceptability of those conclusions indicates that the underlying project—namely, the fitting of works into an ontological category which does not arise solely in an art context—is misguided. In turn, I am satisfied by this review's conclusion but not by how it gets there; in particular, I think it fails to properly dispel sonicism.

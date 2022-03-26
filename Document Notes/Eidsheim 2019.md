@@ -1,5 +1,6 @@
 Notes on [[Eidsheim (2019) Race of Sound introduction.pdf]].
 
+Introduces the idea of the ontological multiplicity of the voice, and argues that the voice is constructed by the listener. In conjunction with _[[Eidsheim 2015|Sensing Sound]]_'s dissection of the figure of sound, provides a very interesting frame for the conceptual expansion of sound in a way that denaturalizes some of the limiting assumptions which plague the accounts of [[Dodd 2007]] and [[O'Callaghan 2007]].
 
 
 > tant to point out that “everything else” is not an objective set of data. It is the listener  who detects timbre and who names the “everything else.”17 Indeed “like

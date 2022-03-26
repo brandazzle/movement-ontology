@@ -1,5 +1,8 @@
 Notes on [[Elder (2004) Real Natures.pdf]].
+
 This was the first book I read that connects to the original sound-ontological line of research, discovered at the end of a quick chain of philosophical research on what an "artifact" was, which began after encountering the term in Sound Studies.
+
+Effectively refutes most forms of conventionalism, then presents a model for what types of artifacts might be reasonably included in an ontology which includes everyday-sized objects. This model of "copied kinds" is particularly interesting because the examples Elder uses include non-human artifacts (stickleback mating dances) and performances (a rain dance). This model cannot account for individual musical works, but can account for e.g. the institution of concert performance, making it particularly interesting to this project.
 
 
 
