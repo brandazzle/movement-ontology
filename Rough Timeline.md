@@ -22,3 +22,10 @@ Week of November 15: Read [[Novak 2013]].
 
 ## Spring 2022
 
+February 3: Read [[Gottschild 1997]] and [[Kealiinohomoku 1969]].
+
+February 24: Read [[Wolf Gennaro 2015]] and [[Searcy 2018]].
+
+March 1: Read [[Banes 1987]].
+
+Week of March 7: Read [[Morris 2010]], [[Bruno 2007]], [[Thomasson 2007]]. Began developing critique of philosophical work previously read.
