@@ -6,7 +6,7 @@
 
 **Teleologically,** this aims to propose a number of more formal projects that might come out of this tangled network of thought.
 
-**Realistically,** this is a completely absurd dumping bin for a whole lot of thoughts, created in the hopes that it would help me think them better.
+**Realistically,** this is a dumping bin for a whole lot of thoughts, created in the hopes that it would help me think them better.
 
 ### How do I use it?
 Any [[Introduction#How do I use it|purple text]] is a link. Almost all will link to other documents within the site. Pages under "Document Notes" in the sidebar and/or with the name format "\[name\] \[year\]" are notes on specific texts, of which PDF scans with my highlights and annotations will be linked at the top of each such page. When viewing the PDFs, mouse over a highlight and it will display the annotation if there is one (tested on Firefox and Chrome; Safari users will have to download and view with Reader). Annotations may be attributed to "work" or "underarch" depending on if I wrote them from desktop or laptop. 
