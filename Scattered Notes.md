@@ -2,7 +2,7 @@
 The following are various scraps of notes found among my places (including the notes app and the margins of class notes) where I write down ideas as I have them. Dates are as exact as I can figure.
 
 ### 7 September 2021
-the awareness of my own "hungry listening" is something that right now I don't feel like will ever slip completely back into being unnoticed/unmarked/default—at least I will do my best to continue that awareness
+the awareness of my own [[Robinson 2020|"hungry listening"]] is something that right now I don't feel like will ever slip completely back into being unnoticed/unmarked/default—at least I will do my best to continue that awareness
 
 ### 23 Nov 2021
 Sound is created by the processing of the thick vibrational phenomenon through a sound ontology
@@ -114,3 +114,9 @@ Re-reading [[Bruno 2007]]
 Can the claim that *hearing* is consistent but auditory *processing* is enculturated be defended? is it coherent? is it even legitimate (can be disproven)? because any attempt to tell what someone hears inevitably involves asking them
 where is hearing even located?
 do I need to bring Eidsheim to bear on this???
+
+### 5 April 2022
+Ideology of absolute art
+Might we say that the mind is for the unmarked?
+
+Resonant somatic response;

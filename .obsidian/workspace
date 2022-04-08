@@ -4,7 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "c9feaa1b62da3b0e",
+        "id": "0246e90013ed028a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Rough Timeline.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "b846fd93f631ae74",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -69,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scattered Notes.md",
+                "file": "Rough Timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scattered Notes.md",
+                "file": "Rough Timeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -99,17 +111,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c9feaa1b62da3b0e",
+  "active": "0246e90013ed028a",
   "lastOpenFiles": [
+    "Rough Timeline.md",
     "Scattered Notes.md",
+    "PDFs/Course Music 302 Sound Studies (Luker, Fall 2021).pdf",
+    "Introduction.md",
     "Pataphysics.md",
     "Document Notes/Kealiinohomoku 1969.md",
     "Document Notes/Preston 2018.md",
     "Document Notes/Searcy 2018.md",
     "Document Notes/Schneider 2011.md",
-    "Document Notes/Elder 2004.md",
-    "Document Notes/Bruno 2007.md",
-    "Document Notes/Morris 2010.md",
-    "Document Notes/Eidsheim 2015.md"
+    "Document Notes/Elder 2004.md"
   ]
 }

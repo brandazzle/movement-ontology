@@ -3,9 +3,22 @@ Dates over winter break may be less accurate, but I'm pretty sure at least of th
 
 ## Fall 2021
 
+Week of September 6: Read [[Robinson 2020.]]
+
+Week of September 20: Read [[Eidsheim 2019.]]
+
+Week of October 25: Read [[Sterne 2012]]. 
+Partly read [[Preston 2018]] and [[Elder 2004]] in trying to get a handle on it
+
+Week of November 15: Read [[Novak 2013]].
 
 ## Winter 2021-2022
 
+ - Read [[Elder 2004]].
+ - Read [[Eidsheim 2015]]. 
+ - Read [[Dodd 2007]]. 
+ - Read [[Hilder 2017]].
+ - Read [[O'Callaghan 2007]].
 
 ## Spring 2022
 
