@@ -112,7 +112,8 @@ Re-reading [[Bruno 2007]]
 [[Dodd 2007|Dodd's]] assertion that music-theoretical properties can be part of a sonic identity and thus can be heard directly is definitely noit gonna work, but that points to a problem with sonicism—that hearing is enculturated. Can draw on [[Robinson 2020]] to make that point
 
 Can the claim that *hearing* is consistent but auditory *processing* is enculturated be defended? is it coherent? is it even legitimate (can be disproven)? because any attempt to tell what someone hears inevitably involves asking them
-where is hearing even located?
+
+where is hearing even located? 
 do I need to bring Eidsheim to bear on this???
 
 ### 5 April 2022
@@ -120,3 +121,31 @@ Ideology of absolute art
 Might we say that the mind is for the unmarked?
 
 Resonant somatic response;
+
+### 7 April 2022
+Elder’s model breaks down (?) where the differentiation and objects of study become themselves a subject of anthropology
+
+### 12 April 2022
+Gesture and body language are wholly enculturated, wholly entrained practice
+
+We think of humans as having an agency to break question and disrupt social categories and types which we do not attribute to animals
+
+are the perceptions that Eidsheim's talking about different from the ones O'Callaghan's talking about?
+
+### 17 Apr 2022
+The viewer does not have complete control over the viewing of the dance
+
+Virtuosic labor —> Not every doing of a dance is a dance (?)
+
+Favorite part is the tuning <—> the ballet is at the bows at the end
+
+A music performance inherently binds up the viewer via resonance; what of a dance performance?
+
+Deaf dances and resonance
+
+### 19 Apr 2022
+Can a proper function \[include/incorporate/account for/involve\] intention? Think about Elder's example of the Indigenous rain dance whose "true" proper function is its benefit to social cohesion; does the extent to which the performers' awareness of this function and intent to bring it about come into play? A problem here is that Elder draws a direct line from animal to human behavior, mating dances to rain dances. 
+
+Is part of the problem the ascribing of a singular proper function?
+
+Eidsheim slicing vib event is wavefunction collapse—and language makes that happen
